@@ -4,6 +4,6 @@
 **Aviso:** O Bot Está Instável Então Peço A Colaboração De Todos!
 {% endhint %}
 
-{% content-ref url="cmds/listcmd.md" %}
-[Ver Lista De Comandos](cmds/listcmd.md)
+{% content-ref url="https://chat.whatsapp.com/IL8quw9nwM64khSF3fgfwh" %}
+[Grupo Do WhatsApp](https://chat.whatsapp.com/IL8quw9nwM64khSF3fgfwh')
 {% endcontent-ref %}

@@ -1,4 +1,4 @@
-# Lista De Comandos
+# Lista Dos Comandos Principais
 
 {% hint style="info" %}
 **Aviso:** O Bot Está Instável Então Peço A Colaboração De Todos!
@@ -19,18 +19,3 @@
 + #mudarnm
 + #rebaixar
 + #promover
-
-## Menu De Diversão:
-> Para Executar O Menu De Diversão Digite: *#menudiversao*
-
-### Comandos:
-+ #atm
-+ #trabalhar
-+ #diario
-+ #paraimg
-+ #perfil
-+ #dep
-+ #saque
-+ #pix
-+ #apostar
-+ #roubar
