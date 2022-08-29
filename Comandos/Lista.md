@@ -13,7 +13,7 @@
 
 ### Comandos Para Admins
 + #resetarlink
-+️ #gp - fechar - abrir - livrar - limitar
++️ #gp
 +️ #infogp
 +️ #mudardk - texto
 + #mudarnm - nome
