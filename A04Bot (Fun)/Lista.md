@@ -10,6 +10,7 @@
 ### Comandos Para Membros 
 + #menudiversão
 + #ping
++ #botinfo
 
 ### Comandos Para Admins:
 + #resetarlink
@@ -19,3 +20,19 @@
 + #mudarnm
 + #rebaixar
 + #promover
+
+
+## Menu De Diversão:
+> Para Executar O Menu De Diversão Digite: *#menudiversao*
+
+### Comandos:
++ #atm
++ #trabalhar
++ #diario
++ #paraimg
++ #perfil
++ #dep
++ #saque
++ #pix
++ #apostar
++ #roubar
