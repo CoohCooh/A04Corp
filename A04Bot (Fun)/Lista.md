@@ -34,5 +34,5 @@
 + #dep
 + #saque
 + #pix
-+ #apostar
++ #apostar (Manutenção)
 + #roubar
