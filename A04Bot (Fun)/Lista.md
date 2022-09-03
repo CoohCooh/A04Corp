@@ -31,8 +31,8 @@
 + #diario
 + #paraimg
 + #perfil
-+ #dep
-+ #saque
++ #dep (Manutenção)
++ #saque (Manutenção)
 + #pix
 + #apostar (Manutenção)
 + #roubar
