@@ -34,5 +34,6 @@
 + #dep
 + #saque
 + #pix
++ #shop (Novo)
 + #apostar (Manutenção)
 + #roubar (Manutenção)
