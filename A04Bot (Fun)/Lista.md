@@ -6,12 +6,13 @@
 
 ## Menu Principal:
 
-### Comandos Para Membros 
+### Comandos Para Membros:
 + #menudiversão
 + #ping
 + #botinfo
 + #sugestao
 + #linkgroup
+
 
 ### Comandos Para Admins:
 + #resetarlink
