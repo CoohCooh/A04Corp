@@ -1,16 +1,17 @@
 # Lista Dos Comandos Principais
 
 {% hint style="info" %}
-**Aviso:** O Bot Está Instável Então Peço A Colaboração De Todos!
+**Info:** O Bot Está Na Versão: v1.1.1
 {% endhint %}
 
 ## Menu Principal:
-> Para Executar O Menu Digite: *#menu*
 
 ### Comandos Para Membros 
 + #menudiversão
 + #ping
 + #botinfo
++ #sugestao
++ #linkgroup
 
 ### Comandos Para Admins:
 + #resetarlink
@@ -23,13 +24,12 @@
 
 
 ## Menu De Diversão:
-> Para Executar O Menu De Diversão Digite: *#menudiversao*
 
 ### Comandos:
 + #atm
 + #trabalhar
 + #diario
-+ #paraimg
++ #toimg
 + #perfil
 + #dep
 + #saque
@@ -37,4 +37,19 @@
 + #shop
 + #apostar (Manutenção)
 + #roubar (Manutenção)
-+ #explorar (Novo)
++ #explorar
+
+## Menu De Youtubers:
+
+### Comandos:
++ #anunciar
+
+
+## Menu Para Donos:
+
+### Economia:
++ #retirarmoney
++ #setmoney
++ #addblacklist
++ #addyoutuber
++ #manu
