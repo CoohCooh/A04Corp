@@ -39,6 +39,9 @@
 + #apostar (Manutenção)
 + #roubar (Manutenção)
 + #explorar
++ #escolhertrabalho
++ #empregos
++ #config
 
 ## Menu De Youtubers:
 
