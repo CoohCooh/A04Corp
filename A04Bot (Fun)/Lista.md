@@ -1,7 +1,7 @@
 # Lista Dos Comandos Principais
 
 {% hint style="info" %}
-**Info:** O Bot Está Na Versão: v1.1.1
+**Info:** O Bot Está Na Versão: v1.1.2
 {% endhint %}
 
 ## Menu Principal:
